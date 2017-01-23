@@ -1,0 +1,39 @@
+.am-topbar{
+	margin-bottom:10px;
+}
+
+.title{
+	width:100%;
+}
+
+.title-text{
+	text-align:center;
+}
+
+.navbar{
+	margin-bottom:150px;
+}
+
+.inputarea{
+	width:100%;
+	resize: none;
+}
+
+.sumain{
+	background-color:#ccc;
+	border: 2px solid #ccc;
+}
+
+.subar{
+	height:45px;
+	background-color:#ccc;
+	border: 2px solid #ccc;
+}
+
+.subutton-box{
+	height:45px;
+}
+
+.content-title{
+	width:50%;
+}
